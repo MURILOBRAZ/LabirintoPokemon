@@ -1,0 +1,30 @@
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\bin\Debug\TP07_202873.exe.config
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\bin\Debug\TP07_202873.exe
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\bin\Debug\TP07_202873.pdb
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.Form1.resources
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.Properties.Resources.resources
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.exe
+C:\Users\Pichau\source\repos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.pdb
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csprojAssemblyReference.cache
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.exe
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.pdb
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\bin\Debug\TP07_202873.exe.config
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\bin\Debug\TP07_202873.exe
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\bin\Debug\TP07_202873.pdb
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.FrmLabirinto.resources
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.Properties.Resources.resources
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csproj.GenerateResource.cache
+D:\Games\Visual Studio\Projetos\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csproj.CoreCompileInputs.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\bin\Debug\TP07_202873.exe.config
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\bin\Debug\TP07_202873.exe
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\bin\Debug\TP07_202873.pdb
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csprojAssemblyReference.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\obj\Debug\TP07_202873.FrmLabirinto.resources
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\obj\Debug\TP07_202873.Properties.Resources.resources
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csproj.GenerateResource.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\obj\Debug\TP07_202873.csproj.CoreCompileInputs.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\obj\Debug\TP07_202873.exe
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP07_202873\TP07_202873\obj\Debug\TP07_202873.pdb
